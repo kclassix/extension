@@ -1,0 +1,8 @@
+{
+   "extDesc": {
+      "message": "Spoof-tidszon, geolokalisering, plats och användaragent. Matcha din platsdata med din VPN:s ip-adress."
+   },
+   "extName": {
+      "message": "Vytal - Spoof Timezone, Geolocation & Locale"
+   }
+}

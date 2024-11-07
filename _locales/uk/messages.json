@@ -1,0 +1,8 @@
+{
+   "extDesc": {
+      "message": "Підробка часового поясу, геолокації, локалі та агента користувача. Зіставте дані про своє місцезнаходження з IP-адресою VPN."
+   },
+   "extName": {
+      "message": "Vytal - Spoof Timezone, Geolocation & Locale"
+   }
+}

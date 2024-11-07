@@ -1,0 +1,8 @@
+{
+   "extDesc": {
+      "message": "Spoof časové pásmo, geolokáciu, miestne nastavenie a používateľského agenta. Priraďte údaje o svojej polohe k IP adrese vašej VPN."
+   },
+   "extName": {
+      "message": "Vytal - Spoof Timezone, Geolocation & Locale"
+   }
+}
